@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("MiniInventario iniciado correctamente.");
-        System.out.println("Cambio realizado 2");
+        System.out.println("Cambio realizado para segunda parte práctica");
     }
 }
