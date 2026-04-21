@@ -18,5 +18,5 @@ Linea adicional para segundo comit
 
 \## Nota: Cambio desde copia clonada
 
-Verión de opción B segunda parte
+Verión para hacer pull
 
